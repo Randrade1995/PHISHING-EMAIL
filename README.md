@@ -1,4 +1,4 @@
-# PHISHING-EMAIL
+# PHISHING-EMAIL ANALYSIS
 PHISHING EMAIL ANALYZER
 
 This repository demonstrates my hands-on phishing analysis skills acquired through Let'sDefend. Below is a step-by-step walkthrough of how I analyzed a phishing email and identified the associated malicious activity.
